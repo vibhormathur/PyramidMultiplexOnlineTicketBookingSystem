@@ -1,0 +1,36 @@
+1. Login - Validation of user
+2. Change Password - Security
+3. Search Movie - Book tickets
+4. Add Theater - Customize Theater/Movies
+5. Add Movie - Customize Theater/Movies
+6. Modify Theater - Customize Theater/Movies
+7. Modify Closing Date - Customize Theater/Movies
+8. View Theater Status - Customize Theater/Movies
+
+9. Book Ticket - Book tickets
+10. Rate Movie - Give feedback
+11. Rate Theater - Give feedback
+12. View Ticket History - Give feedback
+
+13. Register - Add new users
+
+----------------------------------------------------
+
+1. Login - Validation of user - Anuj
+
+2. Change Password - Security - Anuj
+
+3. Search Movie - Book tickets - Aamir
+9. Book Ticket - Book tickets - Anuj
+
+4. Add Theater - Customize Theater/Movies - Vibhor
+5. Add Movie - Customize Theater/Movies - Aamir
+6. Modify Theater - Customize Theater/Movies - Harshit
+7. Modify Closing Date - Customize Theater/Movies - Amit
+8. View Theater Status - Customize Theater/Movies - Chinmaya
+
+10. Rate Movie - Give feedback
+11. Rate Theater - Give feedback - Harshit
+12. View Ticket History - Give feedback - Chinmaya
+
+13. Register - Add new users - Vibhor
